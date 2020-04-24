@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "imgur-dl": "index.js"
+    "idl": "index.js"
   },
   "keywords": [],
   "author": "",
